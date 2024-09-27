@@ -4,12 +4,12 @@
 
 1. Клонируйте репозиторий на ваш компьютер:
 ```
-git clone https://github.com/Danieldo1/hi-ai-test
+git clone https://github.com/Danieldo1/hi-ai-test-work
 ```
 
 2. Перейдите в директорию проекта:
    ```
-   cd hi-ai-test
+   cd hi-ai-test-work
    ```
 
 ### Бэкенд (Nest.js)
